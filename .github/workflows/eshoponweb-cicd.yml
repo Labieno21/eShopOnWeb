@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: a352c2c7-120e-4d3b-a341-5d70ae54029d
-  WEBAPP-NAME: eshoponweb-Labieno
+  WEBAPP-NAME: LabienoWEB
 
 
 jobs:
